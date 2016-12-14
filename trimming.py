@@ -2,7 +2,7 @@ import cv2
 import os
 import glob
 
-width = 254
+width = 256
 height = 384
 
 for i in range(0,100):
